@@ -1,4 +1,4 @@
-package tcpChat.server;
+package ej05_tcpChat.server;
 
 import java.awt.EventQueue;
 import java.awt.event.WindowAdapter;

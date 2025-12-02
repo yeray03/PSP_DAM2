@@ -1,4 +1,4 @@
-package tcpChat.server;
+package ej05_tcpChat.server;
 
 /**
  * Gestiona un ServerSocket y la lista de OutputStreams

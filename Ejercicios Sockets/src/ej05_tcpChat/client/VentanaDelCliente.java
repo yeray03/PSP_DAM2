@@ -1,4 +1,4 @@
-package tcpChat.client;
+package ej05_tcpChat.client;
 
 import java.awt.Container;
 import java.awt.GridBagConstraints;

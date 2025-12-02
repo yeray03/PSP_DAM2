@@ -1,4 +1,4 @@
-package tcpChat.client;
+package ej05_tcpChat.client;
 
 /**
  * Gestiona un socket, del que obtiene un dataOutputStream y un dataInputStream.
