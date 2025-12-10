@@ -13,7 +13,7 @@ public class AppServer {
         Socket socket = null;
         InputStream inputStream = null;
         OutputStream outputStream = null;
-        int puertoServer = 49171; // Coge uno libre...
+        int puertoServer = 8081; // Coge uno libre...
 
         try {
             System.out.println("Servidor - Esperando conexiones de Clientes...");
