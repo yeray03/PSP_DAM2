@@ -68,5 +68,5 @@ Thumbs.db
 *.swp
 *.swo
 
-# Delicated info
+# Sensitive info
 config.properties
